@@ -21,7 +21,7 @@ Tremblay Holdings is the parent entity of the Tremblay corporate ecosystem, foun
 
 | Entity | Abbr. | Role |
 |--------|-------|------|
-| Tremblay Holdings | TTH | Parent — strategic governance, capital allocation, executive leadership |
+| Tremblay Holdings | TH | Parent — strategic governance, capital allocation, executive leadership |
 | Technology Group Tremblay | TGT | R&D engine — recursive frameworks, theoretical models, initial codebases |
 | Tremblay Thoughts Holding | TTH | IP vault — patents, licensing, foundational IP stewardship |
 | Tremblay Operations Group | TOG | OpsCo — deploys licensed frameworks for enterprise clients |
